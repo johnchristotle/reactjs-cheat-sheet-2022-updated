@@ -1,6 +1,6 @@
 <div style="display: inline-block;" >
-<a class="link" href="http://oclipa.github.io/">&lt; home</a>
-<a class="link" href="http://oclipa.github.io/toolbox.html">&lt; toolbox</a>
+<a class="link" href="https://github.com/johnchristotle/">&lt; github</a>
+<a class="link" href="https://www.linkedin.com/in/christotle-agholor-0182a288/">&lt; linkedin</a>
 </div> 
 
 ## React Cheat Sheet 2022 Updated
